@@ -19,7 +19,7 @@ Project https://iniciativakubernetes.com.br/aula1-docker/
 
 Youtbe Playlist Tutorial: https://www.youtube.com/watch?v=8cy4xh3XyFg&t=8521s
 
-API: https://sevencoders-starwars-wiki.herokuapp.com
+
 
 ## Prerequisites
 
