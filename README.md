@@ -40,7 +40,9 @@ API: https://sevencoders-starwars-wiki.herokuapp.com
   
   cd src
   
-  yarn start
+  docker image builder -t conversao-temperatura .
+  
+  executar no navegador http://localhost:8080/
   
 ```
 
